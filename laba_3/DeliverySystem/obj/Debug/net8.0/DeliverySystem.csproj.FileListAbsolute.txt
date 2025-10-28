@@ -1,0 +1,14 @@
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\bin\Debug\net8.0\DeliverySystem.exe
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\bin\Debug\net8.0\DeliverySystem.deps.json
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\bin\Debug\net8.0\DeliverySystem.runtimeconfig.json
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\bin\Debug\net8.0\DeliverySystem.dll
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\bin\Debug\net8.0\DeliverySystem.pdb
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfo.cs
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.dll
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\refint\DeliverySystem.dll
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.pdb
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\DeliverySystem.genruntimeconfig.cache
+C:\Users\Роман Трошкін\source\repos\All-lab_3\DeliverySystem\obj\Debug\net8.0\ref\DeliverySystem.dll
